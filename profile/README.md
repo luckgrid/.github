@@ -1,9 +1,8 @@
 <header align="center">
-  <span style="">Luckgrid Network</span>
-  <span style="display: block;">
+  <span align="center" style="font-size: 48px;">Luckgrid Network</span>
+  <span align="center" style="display: block; font-size: 26px">
     Pristine Digital Craftsmanship
   </span>
-  <span style="">Clear communication, thoughtful planning, quality‑over‑quantity
   <div align="center">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
     <img width="12" />
@@ -55,6 +54,8 @@ We provide a broad range of services tailored to business, organizations, commun
 
 - **Website:** [luckgrid.net](https://www.luckgrid.net/)
 - **Email:** [admin@luckgrid.net](mailto:admin@luckgrid.net)
+
+---
 
 ###
 

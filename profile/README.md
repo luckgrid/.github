@@ -1,7 +1,4 @@
-<header align="center">
-  <h3 align="center">Luckgrid Network</h3>
-  <h4 align="center">Pristine Digital Craftsmanship</h4>
-</header>
+<h1 align="center">Luckgrid Network | Pristine Digital Craftsmanship</h1>
 
 ###
 
@@ -27,11 +24,15 @@
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-### About Us
+###
+
+---
+
+### Who?
 
 Luckgrid is a small yet mighty workshop built around the idea of digital craftsmanship. We embrace the latest tools and patterns to deliver reliable, scalable, and beautiful software. Enter the grid and connect with independent professionals with skills honed through decades of experience who will always deliver quality products. Bound by principles of clear communication and a quality‑over‑quantity mindset, our workflow merges high-level details and low-level obsessions, supported by battle tested patterns and out-of-the-box thinking and intuition.
 
-#### What makes us different?
+### What?
 
 - **Decentralized expertise:** a lean core complemented by a broad network of specialists who collaborate on demand.
 - **Bleeding‑edge adoption:** we adopt AI, blockchain, and emerging technologies to enhance user experience and developer experience.
@@ -39,11 +40,15 @@ Luckgrid is a small yet mighty workshop built around the idea of digital craftsm
 - **Consulting & auditing:** we help transform AI prototypes and legacy codebases into clean, future‑ready solutions through careful audits and refactors.
 - **Deep research:** expect white papers, tech reviews, and documented edge cases that share our findings with the community.
 
----
+### Why?
 
-### Services
+Because [redacted] says so...
 
-We provide a broad range of services tailored to business, organizations, communities and individuals. Our expertise includes:
+###
+
+## Services
+
+> We provide a broad range of services tailored to business, organizations, communities and individuals.
 
 - **Artificial Intelligence (AI):** applying machine learning and generative models to real‑world products.
 - **Blockchain:** building decentralized applications and smart contract solutions.
@@ -51,9 +56,9 @@ We provide a broad range of services tailored to business, organizations, commun
 - **Developer Experience (DX):** tooling and workflows that make coding more efficient and enjoyable.
 - **Business Development (BD):** strategies and analysis for sustainable growth.
 
----
+###
 
-### Find Us
+## Contact
 
 - **Website:** [luckgrid.net](https://www.luckgrid.net/)
 - **Email:** [admin@luckgrid.net](mailto:admin@luckgrid.net)

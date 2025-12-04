@@ -1,8 +1,6 @@
 <header align="center">
-  <span align="center" style="font-size: 48px;">Luckgrid Network</span>
-  <span align="center" style="display: block; font-size: 26px">
-    Pristine Digital Craftsmanship
-  </span>
+  <h3 align="center">Luckgrid Network</h3>
+  <h4 align="center">Pristine Digital Craftsmanship</h4>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
     <img width="12" />

@@ -30,7 +30,7 @@
 
 ### Who?
 
-Luckgrid is a small yet mighty workshop built around the idea of digital craftsmanship. We embrace the latest tools and patterns to deliver reliable, scalable, and beautiful software. Enter the grid and connect with independent professionals with skills honed through decades of experience who will always deliver quality products. Bound by principles of clear communication and a quality‑over‑quantity mindset, our workflow merges high-level details and low-level obsessions, supported by battle tested patterns and out-of-the-box thinking and intuition.
+Luckgrid is a small yet mighty workshop built around the idea of digital craftsmanship. We embrace the latest tools and patterns to deliver reliable, scalable, and beautiful software. Enter the grid and connect with independent professionals with skills honed through decades of experience who will always deliver quality products. Bound by principles of clear communication and a quality‑over‑quantity mindset, our workflow merges high-level details with low-level obsessions, supported by battle tested patterns and out-of-the-box thinking and intuition.
 
 ### What?
 
@@ -51,10 +51,10 @@ Because [redacted] says so...
 > We provide a broad range of services tailored to business, organizations, communities and individuals.
 
 - **Artificial Intelligence (AI):** applying machine learning and generative models to real‑world products.
-- **Blockchain:** building decentralized applications and smart contract solutions.
-- **User Interface (UI) & User Experience (UX):** crafting intuitive and accessible interfaces into accessible design systems.
-- **Developer Experience (DX):** tooling and workflows that make coding more efficient and enjoyable.
-- **Business Development (BD):** strategies and analysis for sustainable growth.
+- **Blockchain:** building decentralized applications, smart contract solutions and data ownership and privacy patterns.
+- **User Interface (UI) & User Experience (UX):** crafting intuitive and accessible interfaces into scalable design systems.
+- **Developer Experience (DX):** tooling and workflows that make coding more efficient, enjoyable and streamlined.
+- **Business Development (BD):** strategies and analysis for sustainable growth and smart market disruption.
 
 ###
 

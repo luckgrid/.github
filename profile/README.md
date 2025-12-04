@@ -1,4 +1,4 @@
-<h1 align="center">Luckgrid Network | Pristine Digital Craftsmanship</h1>
+<h1 align="center">[ Luckgrid Network ]  Pristine Digital Craftsmanship</h1>
 
 ###
 

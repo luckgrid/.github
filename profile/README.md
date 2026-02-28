@@ -1,7 +1,7 @@
 <h1 align="center">
-  LUCKGRID<br />
-  <small>Pristine Digital Craftsmanship</small>
+  LUCKGRID
 </h1>
+<h3 align="center">Pristine Digital Craftsmanship</h3>
 
 ###
 

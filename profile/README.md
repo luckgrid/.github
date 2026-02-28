@@ -2,36 +2,35 @@
 
 ###
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Frontend & UI</h4>
-      <a href="https://skillicons.dev">
-        <img width="100%" src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md&perline=4" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Backend & Data</h4>
-      <a href="https://skillicons.dev">
-        <img width="100%" src="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase&perline=4" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Cloud, DevOps & Tools</h4>
-      <a href="https://skillicons.dev">
-        <img width="100%" src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma&perline=4" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Languages & Other</h4>
-      <a href="https://skillicons.dev">
-        <img width="100%" src="https://skillicons.dev/icons?i=ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin&perline=4" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h3>Frontend & UI</h3>
+<a href="https://skillicons.dev">
+  <img width="48%" src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md&perline=4" />
+</a>
+
+<br /><br />
+
+<h3>Backend & Data</h3>
+<a href="https://skillicons.dev">
+  <img width="48%" src="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase&perline=4" />
+</a>
+
+<br /><br />
+
+<h3>Cloud, DevOps & Tools</h3>
+<a href="https://skillicons.dev">
+  <img width="48%" src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma&perline=4" />
+</a>
+
+<br /><br />
+
+<h3>Languages & Other</h3>
+<a href="https://skillicons.dev">
+  <img width="48%" src="https://skillicons.dev/icons?i=ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin&perline=4" />
+</a>
+
+</div>
 
 ###
 

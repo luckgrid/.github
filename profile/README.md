@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md,nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase" />
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md,nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase&perline=13" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin&perline=10" />
   </a>
 </p>
 

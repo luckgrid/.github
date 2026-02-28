@@ -1,7 +1,25 @@
 <h1 align="center">
   LUCKGRID<br />
-  Pristine Digital Craftsmanship
+  <small>Pristine Digital Craftsmanship</small>
 </h1>
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md,nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin" />
+  </a>
+</p>
+
+###
+
+---
 
 ###
 
@@ -22,20 +40,6 @@ Luckgrid is a small yet mighty workshop built around the idea of digital craftsm
 Because [redacted] says so...
 
 ###
-
-## Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md,nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin" />
-  </a>
-</p>
 
 ## Services
 

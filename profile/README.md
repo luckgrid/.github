@@ -19,10 +19,6 @@
 
 ###
 
----
-
-###
-
 ### Who?
 
 Luckgrid is a small yet mighty workshop built around the idea of digital craftsmanship. We embrace the latest tools and patterns to deliver reliable, scalable, and beautiful software. Enter the grid and connect with independent professionals with skills honed through decades of experience who will always deliver quality products. Bound by principles of clear communication and a quality‑over‑quantity mindset, our workflow merges high-level details with low-level obsessions, supported by battle tested patterns and out-of-the-box thinking and intuition.

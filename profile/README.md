@@ -2,22 +2,6 @@
 
 ###
 
-### Frontend & UI
-[![Frontend & UI](https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md&perline=8)](https://skillicons.dev)
-
-### Backend & Data
-[![Backend & Data](https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase&perline=8)](https://skillicons.dev)
-
-### Cloud, DevOps & Tools
-[![Cloud, DevOps & Tools](https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma&perline=8)](https://skillicons.dev)
-
-### Languages & Other
-[![Languages & Other](https://skillicons.dev/icons?i=ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin&perline=8)](https://skillicons.dev)
-
-###
-
-## About
-
 ### Who?
 
 Luckgrid is a small yet mighty workshop built around the idea of digital craftsmanship. We embrace the latest tools and patterns to deliver reliable, scalable, and beautiful software. Enter the grid and connect with independent professionals with skills honed through decades of experience who will always deliver quality products. Bound by principles of clear communication and a quality‑over‑quantity mindset, our workflow merges high-level details with low-level obsessions, supported by battle tested patterns and out-of-the-box thinking and intuition.
@@ -35,6 +19,20 @@ Luckgrid is a small yet mighty workshop built around the idea of digital craftsm
 Because [redacted] says so...
 
 ###
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md,nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin" />
+  </a>
+</p>
 
 ## Services
 

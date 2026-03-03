@@ -49,10 +49,11 @@ Because [redacted] says so...
 
 ###
 
-## Contact
+## Channels
 
 - **Website:** [luckgrid.net](https://www.luckgrid.net/)
 - **Email:** [admin@luckgrid.net](mailto:admin@luckgrid.net)
+- **YouTube:** [@fill0dev](https://www.youtube.com/@fill0dev)
 
 ###
 

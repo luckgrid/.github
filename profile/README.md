@@ -67,6 +67,51 @@ stronger module. Connect it to a wider network.
 - **Operation and evidence** — observe what works, preserve recovery paths, and
   let real results guide the next iteration.
 
+## The right tools for the system. Not the other way around.
+
+No single language, framework, runtime, cloud, or vendor gets to define what
+your organization can build. We choose technologies around the outcome, connect
+them through clear interfaces, and keep the important parts replaceable.
+
+<p align="center"><strong>Languages and foundations</strong></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,rust,go,elixir,zig,html,css,md,linux,wasm&amp;theme=dark&amp;perline=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,rust,go,elixir,zig,html,css,md,linux,wasm&amp;theme=light&amp;perline=12">
+    <img alt="Language and foundation examples: TypeScript, JavaScript, Python, Rust, Go, Elixir, Zig, HTML, CSS, Markdown, Linux, and WebAssembly." src="https://skillicons.dev/icons?i=ts,js,py,rust,go,elixir,zig,html,css,md,linux,wasm&amp;theme=light&amp;perline=12">
+  </picture>
+</p>
+
+<p align="center"><strong>Interfaces and applications</strong></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,figma&amp;theme=dark&amp;perline=14">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,figma&amp;theme=light&amp;perline=14">
+    <img alt="Interface and application examples: React, Vue, Angular, Solid, Svelte, Astro, Next.js, Nuxt, Gatsby, htmx, D3, Vite, Tailwind CSS, and Figma." src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,figma&amp;theme=light&amp;perline=14">
+  </picture>
+</p>
+
+<p align="center"><strong>Runtimes, APIs, and data</strong></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase,gherkin,git&amp;theme=dark&amp;perline=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase,gherkin,git&amp;theme=light&amp;perline=12">
+    <img alt="Runtime, API, data, and development examples: Node.js, Bun, Deno, NestJS, FastAPI, GraphQL, PostgreSQL, Prisma, Redis, Supabase, Gherkin, and Git." src="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase,gherkin,git&amp;theme=light&amp;perline=12">
+  </picture>
+</p>
+
+<p align="center"><strong>Cloud, delivery, and operations</strong></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,github,sentry,fediverse&amp;theme=dark&amp;perline=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,github,sentry,fediverse&amp;theme=light&amp;perline=10">
+    <img alt="Cloud, delivery, and operations examples: Amazon Web Services, Google Cloud, Cloudflare, Vercel, Docker, Kubernetes, pnpm, GitHub, Sentry, and the fediverse." src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,github,sentry,fediverse&amp;theme=light&amp;perline=10">
+  </picture>
+</p>
+
+These are examples, not a prescribed stack. The architecture stays adaptable;
+the workforce keeps its freedom to evolve.
+
 ## Public source. Working proof.
 
 | Project | What it makes possible | Current public evidence |
@@ -78,23 +123,6 @@ stronger module. Connect it to a wider network.
 
 Each repository owns its current status. Public source demonstrates work; it is
 not a promise that every planned capability is released or available.
-
-<details>
-<summary><strong>How we approach an engineering stack</strong></summary>
-
-The right tools depend on the system. Our public work currently includes:
-
-- **Languages:** Rust, TypeScript, Python, and Go.
-- **Applications:** Next.js, React, SolidStart, Astro, Hugo, and FastAPI.
-- **Workspaces:** moonrepo, proto, Turborepo, pnpm, and Bun.
-- **Interfaces:** semantic HTML, accessible CSS, design systems, and reusable
-  UI primitives.
-- **Operating principles:** local-first workflows, explicit authority,
-  replaceable providers, verification, and practical recovery.
-
-Technology supports the outcome; it does not define the company.
-
-</details>
 
 ## Build a system worthy of the workforce inside it.
 

@@ -32,5 +32,7 @@ maintained in [`profile/assets/`](profile/assets/).
    its own source of truth.
 5. Keep the organization profile accessible, readable, and useful in both light
    and dark mode.
+6. Present languages, frameworks, clouds, and tools as replaceable examples,
+   never as a prescribed stack or the limit of Luckgrid's capabilities.
 
 **LUCKGRID, INC.** · [www.luckgrid.net](https://www.luckgrid.net/)

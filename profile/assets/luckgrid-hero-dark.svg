@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title description">
+  <title id="title">Luckgrid: independent systems, connected capability</title>
+  <desc id="description">The Luckgrid mark and wordmark appear alongside an interconnected grid of independently bounded system nodes.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.065" />
+    </pattern>
+    <linearGradient id="signal" x1="838" y1="70" x2="1182" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#54E1E6" />
+      <stop offset="1" stop-color="#C8FF63" />
+    </linearGradient>
+    <linearGradient id="baseline" x1="64" y1="294" x2="1216" y2="294" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8FF63" stop-opacity="0.92" />
+      <stop offset="0.52" stop-color="#54E1E6" stop-opacity="0.72" />
+      <stop offset="1" stop-color="#54E1E6" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="318" rx="24" fill="#080C11" stroke="#24303C" />
+  <rect x="2" y="2" width="1276" height="316" rx="23" fill="url(#grid)" />
+
+  <text x="72" y="45" fill="#8493A3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2.7">MODULAR SYSTEMS COMPANY</text>
+
+  <rect x="72" y="72" width="152" height="152" rx="24" fill="#111820" stroke="#27333E" />
+  <g transform="translate(91 91) scale(0.0556640625)" fill="#C8FF63">
+    <polygon points="1024 0 0 1023 730 1754 876 1608 292 1023 1169 146" />
+    <polygon points="1610 586 1463 731 1755 1024 1171 1608 1315 1754 2047 1024" />
+    <polygon points="1022 586 878 731 1024 876 1169 731" />
+    <polygon points="731 878 586 1022 731 1169 876 1024" />
+    <polygon points="1316 878 1171 1023 1316 1169 1461 1025" />
+    <polygon points="1023 1171 878 1316 1025 1461 1169 1316" />
+  </g>
+
+  <text x="258" y="133" fill="#F5F8FB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="55" font-weight="750" letter-spacing="7">LUCKGRID</text>
+  <text x="261" y="168" fill="#C8FF63" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="650" letter-spacing="1.15">INDEPENDENT SYSTEMS.</text>
+  <text x="261" y="193" fill="#DCE5EB" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="650" letter-spacing="1.15">CONNECTED CAPABILITY.</text>
+  <text x="261" y="221" fill="#8493A3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.45">ARCHITECTURE / DESIGN / ENGINEERING</text>
+
+  <path d="M848 72V245" stroke="#34424D" stroke-opacity="0.8" />
+
+  <g fill="none" stroke="url(#signal)" stroke-linecap="round" stroke-opacity="0.74" stroke-width="2">
+    <path d="M922 100H1001V155H1080" />
+    <path d="M922 209H1001V155" />
+    <path d="M1080 155H1158V101" />
+    <path d="M1080 155H1158V209" />
+    <path d="M1001 155V245" stroke-dasharray="5 8" stroke-opacity="0.47" />
+    <path d="M1080 155V65" stroke-dasharray="5 8" stroke-opacity="0.47" />
+  </g>
+
+  <g fill="#111820" stroke="#465462" stroke-width="1.5">
+    <rect x="896" y="74" width="52" height="52" rx="13" />
+    <rect x="896" y="183" width="52" height="52" rx="13" />
+    <rect x="975" y="129" width="52" height="52" rx="13" stroke="#C8FF63" />
+    <rect x="1054" y="129" width="52" height="52" rx="13" stroke="#54E1E6" />
+    <rect x="1132" y="75" width="52" height="52" rx="13" />
+    <rect x="1132" y="183" width="52" height="52" rx="13" />
+  </g>
+
+  <g fill="#C8FF63">
+    <circle cx="922" cy="100" r="5" />
+    <circle cx="1001" cy="155" r="6" />
+    <circle cx="1158" cy="209" r="5" />
+  </g>
+  <g fill="#54E1E6">
+    <circle cx="922" cy="209" r="5" />
+    <circle cx="1080" cy="155" r="6" />
+    <circle cx="1158" cy="101" r="5" />
+  </g>
+
+  <path d="M64 294H1216" stroke="url(#baseline)" stroke-width="2" />
+  <text x="72" y="275" fill="#8493A3" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.1">PEOPLE × AGENTS × TOOLS × KNOWLEDGE × WORKFLOWS × OPERATIONS</text>
+  <text x="1184" y="274" text-anchor="end" fill="#C8FF63" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing="1.2">WORK, MULTIPLIED.</text>
+</svg>

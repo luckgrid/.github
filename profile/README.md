@@ -73,44 +73,20 @@ No single language, framework, runtime, cloud, or vendor gets to define what
 your organization can build. We choose technologies around the outcome, connect
 them through clear interfaces, and keep the important parts replaceable.
 
-<p align="center"><strong>Languages and foundations</strong></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,rust,go,elixir,zig,html,css,md,linux,wasm&amp;theme=dark&amp;perline=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,rust,go,elixir,zig,html,css,md,linux,wasm&amp;theme=light&amp;perline=12">
-    <img alt="Language and foundation examples: TypeScript, JavaScript, Python, Rust, Go, Elixir, Zig, HTML, CSS, Markdown, Linux, and WebAssembly." src="https://skillicons.dev/icons?i=ts,js,py,rust,go,elixir,zig,html,css,md,linux,wasm&amp;theme=light&amp;perline=12">
-  </picture>
-</p>
-
-<p align="center"><strong>Interfaces and applications</strong></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,figma&amp;theme=dark&amp;perline=14">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,figma&amp;theme=light&amp;perline=14">
-    <img alt="Interface and application examples: React, Vue, Angular, Solid, Svelte, Astro, Next.js, Nuxt, Gatsby, htmx, D3, Vite, Tailwind CSS, and Figma." src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,figma&amp;theme=light&amp;perline=14">
-  </picture>
-</p>
-
-<p align="center"><strong>Runtimes, APIs, and data</strong></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase,gherkin,git&amp;theme=dark&amp;perline=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase,gherkin,git&amp;theme=light&amp;perline=12">
-    <img alt="Runtime, API, data, and development examples: Node.js, Bun, Deno, NestJS, FastAPI, GraphQL, PostgreSQL, Prisma, Redis, Supabase, Gherkin, and Git." src="https://skillicons.dev/icons?i=nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase,gherkin,git&amp;theme=light&amp;perline=12">
-  </picture>
-</p>
-
-<p align="center"><strong>Cloud, delivery, and operations</strong></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,github,sentry,fediverse&amp;theme=dark&amp;perline=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,github,sentry,fediverse&amp;theme=light&amp;perline=10">
-    <img alt="Cloud, delivery, and operations examples: Amazon Web Services, Google Cloud, Cloudflare, Vercel, Docker, Kubernetes, pnpm, GitHub, Sentry, and the fediverse." src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,github,sentry,fediverse&amp;theme=light&amp;perline=10">
-  </picture>
-</p>
-
 These are examples, not a prescribed stack. The architecture stays adaptable;
 the workforce keeps its freedom to evolve.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,solidjs,svelte,astro,nextjs,nuxtjs,gatsby,htmx,d3,vite,tailwind,css,html,md,nodejs,bun,deno,nestjs,fastapi,graphql,postgres,prisma,redis,supabase&perline=13" alt="Luckgrid technology icons: frontend frameworks, applications, runtimes, APIs, and data systems." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin&perline=10" alt="Luckgrid technology icons: cloud infrastructure, engineering tools, design systems, and programming languages." />
+  </a>
+</p>
 
 ## Public source. Working proof.
 

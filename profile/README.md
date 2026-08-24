@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.luckgrid.net/">Explore Luckgrid</a>
   ·
-  <a href="https://www.luckgrid.net/posts/">Explore Knowledge</a>
+  <a href="https://www.luckgrid.net/posts/">Seek Knowledge</a>
   ·
   <a href="https://github.com/orgs/luckgrid/repositories">Browse public source</a>
   ·
@@ -115,7 +115,7 @@ Tell us what you are building, where your current operation loses power, and
 which people, tools, boundaries, and outcomes matter.
 
 **[Map Your System](mailto:admin@luckgrid.net?subject=Map%20Your%20System)** ·
-**[Explore Knowledge](https://www.luckgrid.net/posts/)** ·
+**[Seek Knowledge](https://www.luckgrid.net/posts/)** ·
 **[Follow build sessions](https://www.youtube.com/@fill0dev)**
 
 <sub>LUCKGRID, INC. · <a href="https://www.luckgrid.net/">www.luckgrid.net</a> · <a href="mailto:admin@luckgrid.net">admin@luckgrid.net</a></sub>

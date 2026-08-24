@@ -84,7 +84,7 @@ the workforce keeps its freedom to evolve.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin&perline=10" alt="Luckgrid technology icons: cloud infrastructure, engineering tools, design systems, and programming languages." />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,pnpm,git,sentry,figma,ts,js,py,go,rust,elixir,zig,ai,fediverse,gherkin,bash,linux,github,githubactions,wasm,obsidian&perline=13" alt="Luckgrid technology icons: cloud infrastructure, engineering tools, programming languages, shell workflows, portable runtimes, and knowledge tools." />
   </a>
 </p>
 

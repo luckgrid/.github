@@ -90,15 +90,24 @@ the workforce keeps its freedom to evolve.
 
 ## Public source. Working proof.
 
-| Project | What it makes possible | Current public evidence |
-| :--- | :--- | :--- |
-| [WfOS](https://github.com/luckgrid/wfos) | A local-first control layer for developer workflows, tools, sessions, and modular providers. | Active public development; implemented components and planned modules are distinguished in the project README. |
-| [Luna](https://github.com/luckgrid/luna) | A reusable, polyglot engineering workspace with coordinated application stacks and toolchains. | Public starter workspace with documented setup, architecture, and working stacks. |
-| [LG Gnosys](https://github.com/luckgrid/lg-gnosys) | Framework-flexible application workspaces, shared design systems, and maintainable developer workflows. | Public reference starter with documented capabilities and roadmap. |
-| [turbones-next](https://github.com/luckgrid/turbones-next) | A focused Next.js, React, Tailwind CSS, and TypeScript monorepo foundation. | Public starter template with documented setup and code-quality conventions. |
+Across public source, active development, and ongoing research, our work spans:
 
-Each repository owns its current status. Public source demonstrates work; it is
-not a promise that every planned capability is released or available.
+- **Workflow and operating systems** — help people, agents, tools, and sessions
+  work together without losing context or control.
+- **Polyglot engineering environments** — coordinate applications, packages,
+  runtimes, and toolchains across independent workspaces.
+- **Modular products and platforms** — build adaptable applications, reusable
+  foundations, and systems that grow beyond a single framework.
+- **Design and interface systems** — create accessible experiences, shared
+  visual foundations, and clear interaction patterns.
+- **Knowledge and connected infrastructure** — preserve useful context, make
+  capability reusable, and connect independently owned systems.
+- **Product incubation and future possibilities** — explore new tools,
+  services, and operating models grounded in real needs.
+
+Some capabilities exist as public working proofs; others are in development or
+being explored. Each repository owns its current implementation and release
+status.
 
 ## Build a system worthy of the workforce inside it.
 
